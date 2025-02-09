@@ -1,5 +1,5 @@
 # Modulation-Demodulation
-Représentations graphiques de quelques ondes électromagnétique
+Représentations graphiques de quelques ondes électromagnétiques
 
 
 
